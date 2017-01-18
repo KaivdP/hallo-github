@@ -85,7 +85,7 @@ namespace HalloGitHub
             Console.WriteLine(" - Klatoo");
             Console.WriteLine(" - Lopi-Of");//zweiter PULL REQUEST
             Console.WriteLine(" - CeeeJay");
-            Console.WriteLine(" - just fork it"); //endlich
+            Console.WriteLine(" - Kaivdp"); //Neuer PULL
             // Kopiere die vorherige Zeile und verwende deinen Namen anstelle von LMStudent.
 
             Console.WriteLine();
